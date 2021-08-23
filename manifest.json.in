@@ -1,0 +1,15 @@
+{
+    "name": "bincalc.piotrzpl",
+    "description": "Convert numbers and make calculations",
+    "architecture": "@CLICK_ARCH@",
+    "title": "BinCalc",
+    "hooks": {
+        "BinCalc": {
+            "apparmor": "BinCalc.apparmor",
+            "desktop":  "BinCalc.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Piotr Lange <zpl20052020@protonmail.ch>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
