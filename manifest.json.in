@@ -9,7 +9,7 @@
             "desktop":  "BinCalc.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "Piotr Lange <zpl20052020@protonmail.ch>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
