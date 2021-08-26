@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(PrimeCheck C CXX)
+project(BinCalc C CXX)
 
 # Automatically create moc files
 set(CMAKE_AUTOMOC ON)
@@ -11,8 +11,8 @@ execute_process(
 )
 set(QT_IMPORTS_DIR "lib/${ARCH_TRIPLET}")
 
-set(PROJECT_NAME "PrimeCheck")
-set(FULL_PROJECT_NAME "primecheck.piotrzpl")
+set(PROJECT_NAME "BinCalc")
+set(FULL_PROJECT_NAME "bincalc.piotrzpl")
 set(DATA_DIR /)
 set(DESKTOP_FILE_NAME ${PROJECT_NAME}.desktop)
 
