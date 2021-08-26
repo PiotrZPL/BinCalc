@@ -1,6 +1,6 @@
-# BinCalc
+# PrimeCheck
 
-Convert numbers and make calculations
+Quickly check if a number is a prime or not
 
 ## License
 

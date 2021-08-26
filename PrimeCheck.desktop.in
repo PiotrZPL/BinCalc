@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=PrimeCheck
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-SymbolicIcon=assets/logo.svg
+X-Ubuntu-Splash-Image=assets/logo.svg
+X-Ubuntu-Splash-Color=#333333
