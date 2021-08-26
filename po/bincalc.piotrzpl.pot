@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bincalc.piotrzpl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-24 17:34+0000\n"
+"POT-Creation-Date: 2021-08-26 18:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,36 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Main.qml:39 BinCalc.desktop.in.h:1
+#: ../qml/About.qml:26 ../qml/About.qml:36 ../qml/Main.qml:70
+msgid "About"
+msgstr ""
+
+#: ../qml/About.qml:36
+msgid "Credits"
+msgstr ""
+
+#. TRANSLATORS: App version number e.g Version 1.0.0
+#: ../qml/About.qml:89
+msgid "Version %1"
+msgstr ""
+
+#: ../qml/About.qml:111
+msgid "Released under the terms of %1"
+msgstr ""
+
+#: ../qml/About.qml:122
+msgid "Report bugs on %1"
+msgstr ""
+
+#: ../qml/Credits.qml:26 ../qml/Credits.qml:27 ../qml/Credits.qml:28
+#: ../qml/Credits.qml:29 ../qml/Credits.qml:30
+msgid "Huge thanks to:"
+msgstr ""
+
+#: ../qml/Main.qml:62 BinCalc.desktop.in.h:1
 msgid "BinCalc"
+msgstr ""
+
+#: ../qml/Main.qml:65
+msgid "Theme"
 msgstr ""
