@@ -17,39 +17,39 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bincalc.piotrzpl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-26 18:41+0000\n"
-"PO-Revision-Date: 2021-09-03 20:58+0000\n"
-"Last-Translator: Anne017 <anneonyme017@openmailbox.org>\n"
-"Language: fr\n"
+"POT-Creation-Date: 2021-09-16 12:56+0000\n"
+"PO-Revision-Date: 2021-09-16 13:00+0000\n"
+"Last-Translator: PiotrZPL <zpl20052020@protonmail.ch>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../qml/About.qml:26 ../qml/About.qml:36 ../qml/Main.qml:70
 msgid "About"
-msgstr "À propos"
+msgstr "O programie"
 
 #: ../qml/About.qml:36
 msgid "Credits"
-msgstr "Crédits"
+msgstr "Podziękowania"
 
 #. TRANSLATORS: App version number e.g Version 1.0.0
 #: ../qml/About.qml:89
 msgid "Version %1"
-msgstr "Version %1"
+msgstr "Wersja %1"
 
 #: ../qml/About.qml:111
 msgid "Released under the terms of %1"
-msgstr "Distribuée sous les termes de %1"
+msgstr "Program został wydany pod licencją %1"
 
 #: ../qml/About.qml:122
 msgid "Report bugs on %1"
-msgstr "Signaler les problèmes sur %1"
+msgstr "Możliwość zgłoszenia błędów na %1"
 
 #: ../qml/Credits.qml:26 ../qml/Credits.qml:27 ../qml/Credits.qml:28
 #: ../qml/Credits.qml:29 ../qml/Credits.qml:30
 msgid "Huge thanks to:"
-msgstr "Un grand merci à :"
+msgstr "Wielkie podziękowania dla:"
 
 #: ../qml/Main.qml:62 BinCalc.desktop.in.h:1
 msgid "BinCalc"
@@ -57,4 +57,4 @@ msgstr "BinCalc"
 
 #: ../qml/Main.qml:65
 msgid "Theme"
-msgstr "Thème"
+msgstr "Motyw"
