@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021  Piotr Lange
+ * Copyright (C) 2021-2022 Piotr Lange
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -33,7 +33,7 @@ MainView {
     
     //property list<ContentItem> transferItemList
     //property var contentTransfer
-    property string app_version: "1.1.1"
+    property string app_version: "1.1.2"
 
     
     property var settings: Settings {

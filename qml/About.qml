@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2021  Piotr Lange
+ * Copyright (C) 2021-2022  Piotr Lange
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -101,7 +101,7 @@ Page {
                             width: parent.width
                             wrapMode: Text.WordWrap
                             horizontalAlignment: Text.AlignHCenter
-                            text: "Copyright (C) 2021 - Piotr Lange"
+                            text: "Copyright (C) 2021-" + date.getFullYear() + " Piotr Lange"
                         }
                         Label {
                             fontSize: "small"
