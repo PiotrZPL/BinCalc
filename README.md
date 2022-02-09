@@ -1,10 +1,10 @@
 # BinCalc
 
-Convert numbers and make calculations
+Convert numbers and make calculations using binary numbers with minimal effort!
 
 ## License
 
-Copyright (C) 2021  Piotr Lange
+Copyright (C) 2021-2022 Piotr Lange
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3, as published
 by the Free Software Foundation.
