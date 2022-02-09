@@ -1,0 +1,6 @@
+{
+  "clickable_minimum_required": "7",
+  "qt_version": "5.12",
+  "builder": "pure-qml-cmake",
+  "kill": "qmlscene"
+}
